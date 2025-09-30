@@ -1,0 +1,10 @@
+/* Deixa o fundo da página um pouco mais suave */
+body {
+    background-color: #eaf3f0;
+}
+
+/* Estilo para o campo de coordenadas quando ele tiver um valor */
+#coordenadas.filled {
+    background-color: #000000; /* Verde claro do Bootstrap */
+    font-weight: bold;
+}
